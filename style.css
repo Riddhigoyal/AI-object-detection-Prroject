@@ -1,0 +1,46 @@
+body{
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+font-size: 100px;
+width: 100%;
+margin: 0px;
+background-color: aqua;
+opacity: 0.7;
+font-family: 'Dancing Script', cursive;
+color: crimson;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border-style: double;
+    border-color: crimson;
+    box-shadow: 10px 10px 10px palevioletred;
+    margin-top: 5%;
+}
+
+#stationary,#desk,#bed,#kitchen,#nature,#dress{
+    border: 7px solid forestgreen;
+    border-radius: 23px;
+    background-color: lime;
+    color: darkblue;
+    font-size: 23px;
+    width: 25%;
+}
+
+#all{
+    width: 50%;
+    height: 70%;
+}
+
+.heading1{
+    font-family: cursive;
+    background-color: darkblue;
+        margin-top: 0%;
+}
